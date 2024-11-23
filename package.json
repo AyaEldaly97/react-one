@@ -2,7 +2,7 @@
   "name": "assignment-one",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AyaEldaly97.github.io/react-one",
+  "homepage": "https://ayaeldaly97.github.io/react-one/",
   "type": "module",
   "scripts": {
     "dev": "vite",
