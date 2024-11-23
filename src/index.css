@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .btn{
+      @apply w-[150px] bg-secondary text-white py-3 rounded-md 
+  }
+
+
+  .form-control{
+      @apply px-2 py-4 rounded-md  caret-secondary outline-none shadow-md w-full mb-2
+  }
+}
